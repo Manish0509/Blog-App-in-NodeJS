@@ -1,0 +1,62 @@
+[
+    {
+        "ID": "6891ea8f-77b5-4c15-b867-9e7fef450114",
+        "Name": "Neel Pambhar",
+        "Email": "neel.pambhar@gmail.com",
+        "Password": "U2FsdGVkX19REdG4Vrs+31Obzrz7lyL8uROk4S3GL38=",
+        "createdBy": "system",
+        "createdAt": "1899-11-29T18:38:50.000Z",
+        "updatedBy": null,
+        "updatedAt": null
+    },
+    {
+        "ID": "06ce97ec-be74-4f82-971b-597f6fd485e0",
+        "Name": "Ankit Sharma",
+        "Email": "ankit123@gmail.com",
+        "Password": "U2FsdGVkX1/8n8hex33hLD8MjMTD/0qsCTxapbQtSZI=",
+        "createdBy": "system",
+        "createdAt": "1899-11-29T18:38:50.000Z",
+        "updatedBy": null,
+        "updatedAt": null
+    },
+    {
+        "ID": "997dc70c-93e7-4c1b-af9c-9773214ddb27",
+        "Name": "Manoj Tiwari",
+        "Email": "manojt@yahoo.co.in",
+        "Password": "U2FsdGVkX19qnRUGyXIGfyAdh9/045VXjq2PYiZvgds=",
+        "createdBy": "system",
+        "createdAt": "1899-11-29T18:38:50.000Z",
+        "updatedBy": null,
+        "updatedAt": null
+    },
+    {
+        "ID": "f29150a9-711a-4a6c-a779-392be17c7938",
+        "Name": "Mayank Gupta",
+        "Email": "mayankguptaji@hotmail.com",
+        "Password": "U2FsdGVkX1/M9dJN+s31T+Vys4gn+Ac9p1pkp9Uo9u4=",
+        "createdBy": "system",
+        "createdAt": "1899-11-29T18:38:50.000Z",
+        "updatedBy": null,
+        "updatedAt": null
+    },
+    {
+        "ID": "cd07fa78-ce0f-4f89-b5be-be5d11cbf92b",
+        "Name": "Yash Yadav",
+        "Email": "yadavy25@gmail.com",
+        "Password": "U2FsdGVkX18z/IAiIJRSXt9FrEl+S7kY89nkUlkWlbE=",
+        "createdBy": "system",
+        "createdAt": "1899-11-29T18:38:50.000Z",
+        "updatedBy": null,
+        "updatedAt": null
+    },
+    {
+        "ID": "d33ed802-c18b-40b9-ae82-cc74d035bc41",
+        "Name": "Vidhi Purohit",
+        "Email": "vidhipurohit@gmail.com",
+        "Password": "U2FsdGVkX19KJSrlYCgkBwm48YcqXtKLFiEa+/mc81w=",
+        "createdBy": "system",
+        "createdAt": "1899-11-29T18:38:50.000Z",
+        "updatedBy": null,
+        "updatedAt": null
+    }
+]
